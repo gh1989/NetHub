@@ -80,3 +80,5 @@ $RECYCLE.BIN/
 # Publish profiles
 **/Properties/PublishProfiles/
 *.pubxml
+
+DONTREADME.md
